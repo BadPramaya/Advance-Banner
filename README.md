@@ -11,7 +11,7 @@
 
 
 
-> git clone https://github.com/BadPramaya/Advance-Banner
+> git clone https://github.com/BadPramaya/Advance-Banner.git
 
 > cd Advance-Banner
 
